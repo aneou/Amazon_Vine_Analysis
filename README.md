@@ -14,9 +14,9 @@ An analysis of Amazon's Vine program in the electronic section and it's effect o
 - 42% 5 star
 
 ### Unpaid Reuslts
--46776 unpaid reviews
--21755 unpaid 5 star reviews
--46% 5 star
+- 46776 unpaid reviews
+- 21755 unpaid 5 star reviews
+- 46% 5 star
 
 ## Summary
 
